@@ -57,7 +57,7 @@ to fix bugs and provide features that were not available on CVS
 
 15 Time machine
 How do we view the past of a project with svn?
-
+svn log <URL or path to repository>
 
 16 Great Scott!
 If there was a mistake made in the past of a project, how should we go about correcting that mistake in svn?
