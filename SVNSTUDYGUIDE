@@ -1,6 +1,6 @@
 1 Git vs Svn
 What are the differences between git and svn?
-
+git is more local based, where the majority it not all of the data is on your computer. SVN is more centralized, where all of the data is more on one super server.
 
 2 Commiting to svn
 How are commits handled in svn?
