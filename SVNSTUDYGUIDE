@@ -8,7 +8,7 @@ commits are handled by having it upload directly to the server rather than havin
 
 3 Checking out svn
 How are check outs performed in svn?
-
+It gets a working copy from the repository
 
 4 Bring me my .svn!
 How do you create the local working environment with svn (the .svn directory)?
