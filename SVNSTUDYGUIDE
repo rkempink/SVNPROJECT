@@ -49,7 +49,7 @@ to fix the bugs and supplied some missing features in CVS
 
 13 A day in the life of svn
 What is a typical svn workflow?
-
+create repository online or on a centralized server, connect working repository to local device, begin working on project, commit whenever needed.
 
 14 What were they thinking?!
 What was the design criteria for svn?
