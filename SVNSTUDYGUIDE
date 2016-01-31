@@ -37,7 +37,7 @@ svn status
 
 10 Life of a branch
 How long are branches in svn supposed to exist?
-
+limitless
 
 11 Taping it together
 How do you merge branches?
