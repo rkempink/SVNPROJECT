@@ -65,7 +65,7 @@ You don't. You continue with your work and correct the mistake in a later versio
 
 17 The initial upload
 If you have an existing project and want to start tracking it with svn, how do you copy your existing files to the repository the first time? Does this create the .svn directory in your local folder?
-
+you can use svn co --depth (how ever many files you want to move) which will move it into the repository, and create the .svn
 
 18 Local SVN
 Can the client/server setup required with svn exist on the same computer?
