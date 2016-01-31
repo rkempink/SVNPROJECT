@@ -45,7 +45,7 @@ svn merge
 
 12 We see a need!
 Why was svn created?
-
+to fix the bugs and supplied some missing features in CVS
 
 13 A day in the life of svn
 What is a typical svn workflow?
