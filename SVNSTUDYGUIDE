@@ -29,7 +29,7 @@ Limitless
 
 8 Working copy
 What does your local copy of a repository look like with svn?
-
+it looks like a long list of branches from the trunk with all of my commits.
 
 9 Status
 How do you check the status of the files you are presently working on?
