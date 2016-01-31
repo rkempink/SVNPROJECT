@@ -53,7 +53,7 @@ create repository online or on a centralized server, connect working repository 
 
 14 What were they thinking?!
 What was the design criteria for svn?
-
+to fix bugs and provide features that were not available on CVS
 
 15 Time machine
 How do we view the past of a project with svn?
