@@ -69,7 +69,7 @@ you can use svn co --depth (how ever many files you want to move) which will mov
 
 18 Local SVN
 Can the client/server setup required with svn exist on the same computer?
-
+Yes, however it's better that the server not be on the same computer as that defeats the purpose of using svn.
 
 19 For the admins
 Did SVN provide any difference in tools between how you do server side
