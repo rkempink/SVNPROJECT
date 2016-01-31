@@ -12,6 +12,7 @@ It gets a working copy from the repository
 
 4 Bring me my .svn!
 How do you create the local working environment with svn (the .svn directory)?
+you create the directory, go into the directory and then use svn admin create to create it.
 
 5 Adding to the chaos
 How do you add files to the repository?
