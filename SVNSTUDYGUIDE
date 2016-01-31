@@ -61,7 +61,7 @@ svn log <URL or path to repository>
 
 16 Great Scott!
 If there was a mistake made in the past of a project, how should we go about correcting that mistake in svn?
-
+You don't. You continue with your work and correct the mistake in a later version/commit. Leave the past alone.
 
 17 The initial upload
 If you have an existing project and want to start tracking it with svn, how do you copy your existing files to the repository the first time? Does this create the .svn directory in your local folder?
