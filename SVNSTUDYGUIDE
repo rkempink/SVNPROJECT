@@ -16,6 +16,7 @@ you create the directory, go into the directory and then use svn admin create to
 
 5 Adding to the chaos
 How do you add files to the repository?
+you use svn add * to add all of the files in your current directory and then use svn mv to move them into a different folder.
 
 
 6 It’s like a tree
