@@ -21,7 +21,7 @@ you use svn add * to add all of the files in your current directory and then use
 
 6 It’s like a tree
 How are branches handled in svn?
-
+branches are different directories
 
 7 or maybe a forest
 How many branches can you have at any given time?
